@@ -7,8 +7,8 @@
         <methods>
           <include name="testInit"/>
           <include name="setUpTest"/>
+          <include name="Login_failure"/>
           <include name="clearUp"/>
-          <include name="Login"/>
           <include name="tearDownTest"/>
         </methods>
       </class> <!-- testPackage.TestClass -->
